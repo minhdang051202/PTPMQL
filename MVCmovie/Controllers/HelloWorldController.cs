@@ -8,12 +8,9 @@ namespace MvcMovie.Controllers
         public IActionResult Index()
         {
            return View();
-        } 
+        }
         // GET: /HelloWorld/Welcome/ 
 
-        public string Welcome()
-        {
-            return "This is the Welcome action method...";
-        }
+        public string Welcome => "This is the Welcome action method...";
     }
 }
