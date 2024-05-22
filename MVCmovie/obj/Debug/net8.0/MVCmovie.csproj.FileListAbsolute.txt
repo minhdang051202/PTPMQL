@@ -6,3 +6,4 @@ D:\PTPMQL\MVCmovie\obj\Debug\net8.0\MVCmovie.MvcApplicationPartsAssemblyInfo.cac
 D:\PTPMQL\MVCmovie\obj\Debug\net8.0\MVCmovie.RazorAssemblyInfo.cache
 D:\PTPMQL\MVCmovie\obj\Debug\net8.0\MVCmovie.RazorAssemblyInfo.cs
 D:\PTPMQL\MVCmovie\obj\Debug\net8.0\MVCmovie.sourcelink.json
+D:\PTPMQL\MVCmovie\obj\Debug\net8.0\MVCmovie.csproj.AssemblyReference.cache
