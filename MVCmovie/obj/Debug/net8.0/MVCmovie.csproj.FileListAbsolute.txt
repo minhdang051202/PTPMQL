@@ -1,0 +1,8 @@
+D:\PTPMQL\MVCmovie\obj\Debug\net8.0\MVCmovie.GeneratedMSBuildEditorConfig.editorconfig
+D:\PTPMQL\MVCmovie\obj\Debug\net8.0\MVCmovie.AssemblyInfoInputs.cache
+D:\PTPMQL\MVCmovie\obj\Debug\net8.0\MVCmovie.AssemblyInfo.cs
+D:\PTPMQL\MVCmovie\obj\Debug\net8.0\MVCmovie.csproj.CoreCompileInputs.cache
+D:\PTPMQL\MVCmovie\obj\Debug\net8.0\MVCmovie.MvcApplicationPartsAssemblyInfo.cache
+D:\PTPMQL\MVCmovie\obj\Debug\net8.0\MVCmovie.RazorAssemblyInfo.cache
+D:\PTPMQL\MVCmovie\obj\Debug\net8.0\MVCmovie.RazorAssemblyInfo.cs
+D:\PTPMQL\MVCmovie\obj\Debug\net8.0\MVCmovie.sourcelink.json

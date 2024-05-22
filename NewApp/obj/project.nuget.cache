@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "RUBlETS2IjF9n3R+nzHMhbBTyzvLHbUeK4CDo2ydd25qJxrd/4ZvOLuWD07+tqbrAhKu6peU2FDVo5njIfpW5w==",
+  "dgSpecHash": "KiFBcRaBN1k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nguye\\OneDrive\\Máy tính\\PTPMQL\\NewApp\\NewApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\PTPMQL\\NewApp\\NewApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.19\\microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.19\\microsoft.windowsdesktop.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.19\\microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.19\\microsoft.netcore.app.host.win-x64.7.0.19.nupkg.sha512"
+  ],
   "logs": []
 }
